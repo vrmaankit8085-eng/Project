@@ -1,3 +1,3 @@
 # Project
 This is for Project1
-This change is made from GitHub.
+This change is from CONFLICT branch.
