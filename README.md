@@ -1,1 +1,2 @@
-My First Git Project
+hello git
+Today I learned Git Push
